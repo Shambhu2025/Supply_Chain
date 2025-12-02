@@ -1,4 +1,4 @@
-![Impact Map](Screenshot 2025-12-02 144626.png)
+![Impact Map](https://github.com/Shambhu2025/Supply_Chain/blob/main/Screenshot%202025-12-02%20144626.png)
 # SupplyChain-Graph-Hydra 
 ### Resilience Modeling with Multi-Task Graph Neural Networks (GNNs)
 

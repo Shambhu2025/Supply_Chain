@@ -20,6 +20,8 @@ Using Counterfactual Analysis (simulating a strike at Node 0), the model demonst
 
 **Insight:** The model correctly identified that while Node 18 was closer to the failure, Node 49 was structurally more vulnerable (highly dependent on the specific pathway provided by Node 0).
 
+![Impact Map](impact_map.png)
+
 ## 4. How to Run
 1. Install dependencies: `pip install torch torch-geometric networkx`
 2. Run the simulation: `python main.py`

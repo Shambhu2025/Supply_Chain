@@ -1,3 +1,4 @@
+![Impact Map](Screenshot 2025-12-02 144626.png)
 # SupplyChain-Graph-Hydra 
 ### Resilience Modeling with Multi-Task Graph Neural Networks (GNNs)
 
@@ -19,8 +20,6 @@ Using Counterfactual Analysis (simulating a strike at Node 0), the model demonst
 * **Downstream Node (Node 49):** Risk increased by **2.03**.
 
 **Insight:** The model correctly identified that while Node 18 was closer to the failure, Node 49 was structurally more vulnerable (highly dependent on the specific pathway provided by Node 0).
-
-![Impact Map](Screenshot 2025-12-02 144626.png)
 
 ## 4. How to Run
 1. Install dependencies: `pip install torch torch-geometric networkx`
